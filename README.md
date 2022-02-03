@@ -12,6 +12,9 @@ commands.
 
 As stated above, the main purpose is to provide examples.
 
+## Deployment
+
+This is a simple project. Development on any server.
+
 ## How To Contribute
 
-## Deployment
