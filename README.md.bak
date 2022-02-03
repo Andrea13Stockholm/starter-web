@@ -18,3 +18,4 @@ This is a simple project. Development on any server.
 
 ## How To Contribute
 
+Copyright notice.
