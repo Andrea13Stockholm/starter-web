@@ -18,4 +18,4 @@ This is a simple project. Development on any server.
 
 ## How To Contribute
 
-Copyright notice.
+Copyright notice. Fork repo and issue PR
