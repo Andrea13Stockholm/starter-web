@@ -10,6 +10,8 @@ commands.
 
 ## Purpose
 
+As stated above, the main purpose is to provide examples.
+
 ## How To Contribute
 
 ## Deployment
